@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Pedro Xavier Escalante 💻 </h1>
+<h3 align="center">  Backend Developer | Computer Engineer </h3> <br>
 
-<!--
-**escalante308/escalante308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+<a href="https://www.linkedin.com/in/pedro-xavier-escalante/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-xavier-escalante/"></a>
+<a href="https://twitter.com/pedresca"><img alt="Twitter" src="https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pedresca"></a>
+<a href="https://dev.to/sulthannk"><img alt="Dev Community" src="https://img.shields.io/badge/-SulthanNK-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/sulthannk"></a>
+</p>
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🤔 About
+-  **Working :**  Backend Development :computer: | Cloud :cloud: 
+-  **Learning :** Clojure :zap: | ClojureScript :fire:	
+-  **Hobbies :** Music 🎵 | Food 🥘
+-  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Fun fact :** I'm from Venezuela 🇻🇪 but I live in Colombia 🇨🇴 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ✨ Visitors 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=escalante308" alt="Escalante308" /> </p>
+
+### 📊 Profile stats
+
+[![Escalante308's github stats](https://github-readme-stats.vercel.app/api?username=Escalante308&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Escalante308/github-readme-stats)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
