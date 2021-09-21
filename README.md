@@ -2,9 +2,8 @@
 <h3 align="center">  Backend Developer | Computer Engineer </h3> <br>
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/pedro-xavier-escalante/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-xavier-escalante/"></a>
-<a href="https://twitter.com/pedresca"><img alt="Twitter" src="https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pedresca"></a>
-<a href="https://dev.to/sulthannk"><img alt="Dev Community" src="https://img.shields.io/badge/-SulthanNK-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/sulthannk"></a>
+<a href="https://www.linkedin.com/in/pedro-xavier-escalante/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Pedro-Escalante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-xavier-escalante/"></a>
+<a href="https://twitter.com/pedresca"><img alt="Twitter" src="https://img.shields.io/badge/-Pedro-Escalante-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pedresca"></a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
