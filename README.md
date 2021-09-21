@@ -1,4 +1,4 @@
-<div style="background-color: blue; height:15px"></div>
+<div style="background-color: blue; height:15px">.</div>
 <h1 align="center"> Hello, I'm Pedro Xavier Escalante 💻 </h1>
 <h3 align="center">  Backend Developer | Computer Engineer </h3> <br>
 
