@@ -2,8 +2,8 @@
 <h3 align="center">  Backend Developer | Computer Engineer </h3> <br>
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/pedro-xavier-escalante/">LinkedIn</a>
-<a href="https://twitter.com/pedreska">Twitter</a>
+<a target="_blank" href="https://www.linkedin.com/in/pedro-xavier-escalante/">LinkedIn</a>
+<a target="_blank" href="https://twitter.com/pedreska">Twitter</a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
