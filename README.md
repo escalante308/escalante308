@@ -3,7 +3,7 @@
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/pedro-xavier-escalante/">LinkedIn</a>
-<a href="https://twitter.com/pedresca">Twitter</a>
+<a href="https://twitter.com/pedreska">Twitter</a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
