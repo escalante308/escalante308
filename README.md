@@ -9,7 +9,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 -  **Company :** Splash Financial, Cleveland
--  **Working :**  Backend Development :computer: 
+-  **Working :**  Backend Development (PHP - Clojure) :computer: 
+-  **Experience :** PHP - Laravel - JS - CSS
 -  **Learning :** Clojure ⚡ | ClojureScript :fire:	
 -  **Hobbies :** Music 🎵 | Food 🥘
 -  **Ask me about :** Anything!, I'm happy to help :v:
